@@ -1,0 +1,60 @@
+/*
+* ===============
+*  GOOGLE FONTS 
+* ===============
+*/
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+/*
+* ===============
+*  VARIABLES CSS 
+* ===============
+*/
+:root {
+  /**========== Colors ==========*/
+  --white-color: hsl(0, 0%, 100%);
+  --black-color: hsl(0, 0%, 0%);
+  /**========== Font and typography ==========*/
+  --body-font: "Poppins", sans-serif;
+  --h1-font-size: 2rem;
+  --normal-font-size: 1rem;
+  --small-font-size: 0.813rem;
+}
+
+/*
+* ===============
+*     BASE 
+* ===============
+*/
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body,
+input,
+button {
+  font-family: var(--body-font);
+  font-size: var(--normal-font-size);
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+/*
+* ===============
+*    LOGIN
+* ===============
+*/
+/*
+* ===============
+*   BREAKPOINTS
+* ===============
+*//*# sourceMappingURL=style.css.map */
