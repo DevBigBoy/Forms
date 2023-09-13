@@ -4,4 +4,5 @@ I will design some of the best contact form designs based on HTML and CSS and Ja
 
 | #   | Project Name    | Live Preview                                                      |
 | --- | --------------- | ----------------------------------------------------------------- |
-| 001 | From-Validation | [Live Preview](https://devbigboy.github.io/Forms/From-Validation) |
+| 001 | Form-Validation | [Live Preview](https://devbigboy.github.io/Forms/From-Validation) |
+| 002 | Form-01         | [Live Preview](https://devbigboy.github.io/Forms/From-01)         |
